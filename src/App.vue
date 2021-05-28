@@ -13,7 +13,7 @@ import Footer from './components/Footer'
 export default {
   name: 'App',
   components: {
-    HelloWorld, 
+    HelloWorld,
     Footer
   }
 }
